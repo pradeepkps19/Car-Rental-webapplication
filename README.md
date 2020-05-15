@@ -23,7 +23,7 @@ The Online Car Rental Application is a web application that helps the customers 
 
 ## Database using XAMPP server:
 ##### Running PHP files in XAMPP:
-Refer: http://www.tutorialspoint.com/articles/run-a-php-program-in-xampp-server
+Refer: https://blog.udemy.com/xampp-tutorial/
 
 SQL queries for the used database is in 
 ###### sql > dreamcars.sql
